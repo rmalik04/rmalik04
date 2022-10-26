@@ -1,0 +1,83 @@
+[    
+        {
+            "song_title":"Never Sleep", 
+            "artist":"NAV", 
+            "genre":"Rap", 
+            "year_released": 2022
+        },
+        {
+            "song_title":"No Escape", 
+            "artist":"Lil Tjay", 
+            "genre":"Rap", 
+            "year_released": 2019
+        },
+        {
+            "song_title":"Picture This", 
+            "artist":"Polo G", 
+            "genre":"Rap", 
+            "year_released": 2019
+        },
+        {
+            "song_title":"The Ends", 
+            "artist":"Travis Scott", 
+            "genre":"Rap", 
+            "year_released": 2016
+        },
+        {
+            "song_title":"Don't", 
+            "artist":"Bryson Tiller", 
+            "genre":["Rap", "R & B"], 
+            "year_released": 2015
+        },
+        {
+            "song_title":"Am I Wrong", 
+            "artist":"Nico & Vinz", 
+            "genre":"Pop", 
+            "year_released": 2013
+        },
+        {
+            "song_title":"The Man", 
+            "artist":"Aloe Balcc", 
+            "genre":"Pop", 
+            "year_released": 2019
+        },
+        {
+            "song_title":"Not for Nothing", 
+            "artist":"Nico & Vinz", 
+            "genre":"Pop", 
+            "year_released": 2015
+        },
+        {
+            "song_title":"Heartbreak Anniversary", 
+            "artist":"Giveon", 
+            "genre":"R & B", 
+            "year_released": 2015 
+        },
+        {
+            "song_title":"Go Crazy", 
+            "artist":"Chris Brown", 
+            "genre":"R & B", 
+            "year_released": 2021
+        },
+        {
+            "song_title":"Counting Stars", 
+            "artist":"One Republic", 
+            "genre":["Pop, Pop-rock"], 
+            "year_released": 2013
+        },
+        {
+            "song_title":"Like I Want You", 
+            "artist":"Giveon", 
+            "genre":"R & B", 
+            "year_released": 2020
+        },
+        {
+            "song_title":"Show Goes On", 
+            "artist":"Lupe Fiasco", 
+            "genre":"Rap", 
+            "year_released": 2011
+        }
+]
+
+
+
